@@ -1,0 +1,26 @@
+﻿  stdafx.cpp
+  Shaders.cpp
+  TrainingFramework.cpp
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\trainingframework\trainingframework.cpp(17): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\trainingframework\trainingframework.cpp(17): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\trainingframework\trainingframework.cpp(17): warning C4566: character represented by universal-character-name '\u1EF9' cannot be represented in the current code page (1252)
+  Texture.cpp
+  Object.cpp
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\trainingframework\object.cpp(6): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\trainingframework\object.cpp(6): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\trainingframework\object.cpp(6): warning C4566: character represented by universal-character-name '\u1EF9' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\trainingframework\object.cpp(7): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\trainingframework\object.cpp(7): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\trainingframework\object.cpp(7): warning C4566: character represented by universal-character-name '\u1EF9' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\trainingframework\object.cpp(15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\trainingframework\object.cpp(16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\trainingframework\object.cpp(17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Model.cpp
+  Camera.cpp
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\trainingframework\camera.cpp(34): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\trainingframework\camera.cpp(34): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\trainingframework\camera.cpp(34): warning C4566: character represented by universal-character-name '\u1EF9' cannot be represented in the current code page (1252)
+  Generating Code...
+Camera.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  TrainingFramework.vcxproj -> D:\University\Studying Program\20193\Thực tập kỹ thuật\Docs\#2 - 3D Training\3D\TrainingFramework_VS2013\\BIN\TrainingFramework.exe
+  TrainingFramework.vcxproj -> D:\University\Studying Program\20193\Thực tập kỹ thuật\Docs\#2 - 3D Training\3D\TrainingFramework_VS2013\\BIN\TrainingFramework.pdb (Full PDB)

@@ -1,0 +1,31 @@
+﻿  stdafx.cpp
+  TGA.cpp
+  MemoryOperators.cpp
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\memoryoperators.cpp(7): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\memoryoperators.cpp(7): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\memoryoperators.cpp(7): warning C4566: character represented by universal-character-name '\u1EF9' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\memoryoperators.cpp(13): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\memoryoperators.cpp(13): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\memoryoperators.cpp(13): warning C4566: character represented by universal-character-name '\u1EF9' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\memoryoperators.cpp(53): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\memoryoperators.cpp(53): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\memoryoperators.cpp(53): warning C4566: character represented by universal-character-name '\u1EF9' cannot be represented in the current code page (1252)
+  MemoryManager.cpp
+  Math.cpp
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\math.cpp(10): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\math.cpp(104): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\math.cpp(208): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+  esUtil_win.cpp
+  esUtil.cpp
+  esShader.cpp
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\esshader.cpp(32): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\esshader.cpp(32): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\esshader.cpp(32): warning C4566: character represented by universal-character-name '\u1EF9' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\esshader.cpp(54): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\esshader.cpp(54): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\esshader.cpp(54): warning C4566: character represented by universal-character-name '\u1EF9' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\esshader.cpp(104): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\esshader.cpp(104): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+d:\university\studying program\20193\thực tập kỹ thuật\docs\#2 - 3d training\3d\trainingframework_vs2013\utilities\esshader.cpp(104): warning C4566: character represented by universal-character-name '\u1EF9' cannot be represented in the current code page (1252)
+  Generating Code...
+  Utilities.vcxproj -> D:\University\Studying Program\20193\Thực tập kỹ thuật\Docs\#2 - 3D Training\3D\TrainingFramework_VS2013\Debug\Utilities.lib
